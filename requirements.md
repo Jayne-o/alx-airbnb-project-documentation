@@ -60,7 +60,7 @@ Feature 2: Property Management
 - Booking creation under 800ms
 - Real-time conflict detection with concurrency support
 
-Would you like help building out a fourth feature like Payments or Reviews, or formatting this into a Markdown file for your GitHub repo? We can even generate a Swagger/OpenAPI spec if you’re feeling fancy.
+
 
 
 
